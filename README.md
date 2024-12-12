@@ -1,5 +1,5 @@
-#Mi nombre es Jorge Alberto Trujillo Pacheco. 
-#Este es mi primer ejercicio para mi portafolio de evidencias
+# Mi nombre es Jorge Alberto Trujillo Pacheco. 
+# Este es mi primer ejercicio para mi portafolio de evidencias
 
 ## Tendencias musicales de rock, despues de los años 2000's
 
